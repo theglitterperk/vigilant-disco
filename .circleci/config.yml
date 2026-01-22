@@ -8,7 +8,7 @@ jobs:
       - checkout
       - run:
           name: First Hello World
-          command: echo "Its Vishal First Hello World..."
+          command: echo "Its Steffi's First Hello World..."
       - run:
           name: Sleep
           command: sleep 25
@@ -20,7 +20,7 @@ jobs:
       - checkout
       - run:
           name: Second Hello
-          command: echo "Hello Vishal...."
+          command: echo "Hello Steffi...."
       - run:
           name: Sleep
           command: sleep 15
